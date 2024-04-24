@@ -9,6 +9,9 @@ The following features are set to be implemented:
 Some technical infrastructure is also planned:
 - Github Actions Build and Test pipeline.
 - Codecov integration.
+- Technical checks for commit convention.
+- Docker containerization.
+- CS-Fixer integration.
 
 ### License
 This software is licensed under the MIT license. For more information, please refer to the [LICENSE](LICENSE) file.
